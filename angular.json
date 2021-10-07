@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "firechat": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "firechat"
+    }
+  },
+  "defaultProject": "firechat",
+  "cli": {
+    "analytics": "d3ff1ecb-9032-46bb-aa1d-2086e330bbc1"
+  }
 }
